@@ -21,6 +21,8 @@
 
 - Cyber Security :robot:
 - Open source :octocat:
+- Programming
+- Teaching
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=altaf99&show_icons=true&theme=radical&line_height=27">
