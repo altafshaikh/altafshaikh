@@ -3,11 +3,19 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/AltafShaikh07)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/altaf-shaikh-a93198179) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ialtafshaikh/)
 
 
-<a href="https://www.altafshaikh.ml/"><img src="https://raw.githubusercontent.com/altaf99/altaf99/master/images/altaf_contri_text.png" width="900"></a>
+<p align="center"><a href="https://www.altafshaikh.ml/"><img src="https://raw.githubusercontent.com/altaf99/altaf99/master/images/altaf_contri_text.png" width="900"></a></p>
 
 - Full-Stack Web Developer
 - Languages : Python, C, JavaScript
 - 🌐 Visit my [Porfolio website](https://www.altafshaikh.ml/) for complete background and contact.
+
+
+<div align=center>
+  
+   <p align=center><a href="https://github.com/altaf99"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p>
+   
+</div>
+ 
 
 ## Things I am passionate about
 
