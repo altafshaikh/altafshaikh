@@ -4,7 +4,7 @@
 
 ### Hi 👋 
 I am Altaf!
-🌐 Visit my [Porfolio website](https://www.altafshaikh.ml/) for complete background and contact.
+- 🌐 Visit my [Porfolio website](https://www.altafshaikh.ml/) for complete background and contact.
 
 ## Things I am passionate about
 
