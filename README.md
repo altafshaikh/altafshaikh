@@ -12,7 +12,7 @@
 
 <div align=center>
   
-   <p align=center><a href="https://github.com/altaf99"><img src="https://raw.githubusercontent.com/altaf99/altaf99/master/images/technologies.png" title="Technologies I use" align=center/></a></p>
+   <p align=center><a href="https://github.com/altaf99"><img src="https://raw.githubusercontent.com/altaf99/altaf99/master/images/technologies.png" title="Technologies I use" align=center /></a></p>
    
 </div>
  
