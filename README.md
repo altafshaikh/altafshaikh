@@ -3,9 +3,16 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/ialtafshaikh)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialtafshaikh) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ialtafshaikh/)
 
 
+
+- 🔭 I’m currently working on **Javascript**
+- 🌱 I’m currently learning **NodeJS** and **React framework**
+- 💬 Ask me about **Python, JavaScript, Ethical Hacking, Blockchain, Opensource :octocat:**
+
+## Skills And Work
+
 - Full-Stack Web Developer
 - Languages : Python, C, JavaScript
-- 🌐 Visit my [Porfolio website](https://www.altafshaikh.ml/) for complete background and contact.
+- Visit my [Porfolio website](https://www.altafshaikh.ml/) for complete background and contact.
 - Check my work here [TeachMeBro](https://www.teachmebro.com) - learn development and cyber security.
 
 
