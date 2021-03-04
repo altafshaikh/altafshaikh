@@ -11,7 +11,9 @@
 ## Skills And Work
 
 - Full-Stack Web Developer
-- Languages : Python, C, JavaScript
+- Languages : Python, C, JavaScript, Typescript
+- Frameworks : Django, NextJS, NestJS, Gatsby
+- Tech Stack : MERN, JAMstack
 - Visit my [Porfolio website](https://www.altafshaikh.ml/) for complete background and contact.
 - Check my work here [TeachMeBro](https://www.teachmebro.com) - learn development and cyber security.
 
