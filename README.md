@@ -3,10 +3,10 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://mobile.twitter.com/ialtafshaikh)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ialtafshaikh) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ialtafshaikh/)
 
 
-
 - 🔭 I’m currently working on **Javascript**
 - 🌱 I’m currently learning **NodeJS** and **React framework**
 - 💬 Ask me about **Python, JavaScript, Ethical Hacking, Blockchain, Opensource :octocat:**
+
 
 ## Skills And Work
 
@@ -43,6 +43,10 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=altafshaikh&layout=compact">
 </p>
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=altafshaikh&theme=flat&no-frame=true&margin-w=30" />
+</div>
 
 
 <p align="center">
