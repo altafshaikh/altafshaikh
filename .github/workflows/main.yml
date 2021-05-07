@@ -4,7 +4,7 @@
   uses: athul/waka-readme@v0.1.5
   with:
     # GitHub access token with Repo scope
-    GH_TOKEN: # default is ${{ github.token }}
+    GH_TOKEN: ${{ secrets.GH_TOKEN }}
     # Your Wakatime API Key
     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     # Your GitHub repository
