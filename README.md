@@ -77,6 +77,9 @@
   <img src="https://profile-counter.glitch.me/altafshaikh/count.svg" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <b>Thanks For Visiting My Profile ❤️</b>
 </p>
