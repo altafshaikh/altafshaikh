@@ -78,6 +78,79 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 839 Contributions in the Year 2021
+ > 
+> 📦 649.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 100 Public Repositories 
+ > 
+> 🔑 26 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    554 commits    ██████░░░░░░░░░░░░░░░░░░░   26.72% 
+🌆 Daytime    850 commits    ██████████░░░░░░░░░░░░░░░   41.0% 
+🌃 Evening    663 commits    ████████░░░░░░░░░░░░░░░░░   31.98% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       254 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
+Tuesday      357 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Wednesday    339 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
+Thursday     365 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
+Friday       284 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
+Saturday     344 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+Sunday       130 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               53 repos            ███████████████░░░░░░░░░░   62.35% 
+HTML                     15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <p align="center">
