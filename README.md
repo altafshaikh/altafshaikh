@@ -72,13 +72,8 @@
 <!--
 **altafshaikh/altafshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/altafshaikh/count.svg" />
-</p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My Github Data** 
 
@@ -152,6 +147,11 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/altafshaikh/count.svg" />
+</p>
 
 <p align="center">
   <b>Thanks For Visiting My Profile ❤️</b>
