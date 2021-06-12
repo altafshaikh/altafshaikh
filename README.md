@@ -74,7 +74,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
@@ -84,9 +84,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 104 Public Repositories 
+> 📜 103 Public Repositories 
  > 
-> 🔑 33 Private Repositories  
+> 🔑 34 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -155,7 +155,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
 
 <p align="center"> 
