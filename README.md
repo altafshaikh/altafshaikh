@@ -144,9 +144,9 @@ Python                   3 repos             ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png)  -->
 
 
  Last Updated on 18/06/2021
