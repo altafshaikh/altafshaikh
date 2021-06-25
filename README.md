@@ -74,7 +74,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
@@ -138,9 +138,9 @@ Linux                    16 hrs 17 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               57 repos            ████████████████░░░░░░░░░   66.28% 
+JavaScript               58 repos            ████████████████░░░░░░░░░   67.44% 
 HTML                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
 Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
@@ -152,7 +152,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 25/06/2021
 <!--END_SECTION:waka-->
 
 <p align="center"> 
