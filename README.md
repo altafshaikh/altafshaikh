@@ -117,20 +117,16 @@ Sunday       129 commits    █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 57 mins        ███████████████░░░░░░░░░░   61.98% 
-JavaScript               58 mins             ███████░░░░░░░░░░░░░░░░░░   30.93% 
-GraphQL                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-contentstack-graphql-api 2 hrs 56 mins       ███████████████████████░░   92.91% 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.09%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 9 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -151,7 +147,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 <p align="center"> 
