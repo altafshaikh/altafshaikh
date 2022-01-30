@@ -74,7 +74,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -154,7 +154,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 18:57:17 UTC
+ Last Updated on 30/01/2022 18:48:41 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
