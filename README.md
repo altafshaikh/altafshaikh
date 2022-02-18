@@ -69,94 +69,6 @@
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
 </p>
-<!--
-**altafshaikh/altafshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 73 Contributions in the Year 2022
- > 
-> 📦 660.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 114 Public Repositories 
- > 
-> 🔑 35 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    517 commits    ██████░░░░░░░░░░░░░░░░░░░   24.82% 
-🌆 Daytime    945 commits    ███████████░░░░░░░░░░░░░░   45.37% 
-🌃 Evening    615 commits    ███████░░░░░░░░░░░░░░░░░░   29.52% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       294 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Tuesday      373 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Wednesday    372 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-Thursday     337 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
-Friday       297 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-Saturday     292 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Sunday       118 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ███████████████████░░░░░░   75.88% 
-JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.4% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-contentstack-cdn-purge   3 hrs 21 mins       ████████████████████░░░░░   82.36% 
-contentstack-graphql-api 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
-content-delivery-dj-v2   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
-contentstack-migration-js0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-Linux                    4 hrs 4 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               59 repos            █████████████████░░░░░░░░   69.41% 
-HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/altafshaikh/altafshaikh/master/charts/bar_graph.png) 
-
-
- Last Updated on 17/02/2022 18:50:44 UTC
-<!--END_SECTION:waka-->
 
 <p align="center"> 
   Visitor count<br>
@@ -167,3 +79,6 @@ CSS                      3 repos             █░░░░░░░░░░�
   <b>Thanks For Visiting My Profile ❤️</b>
 </p>
 
+<!--
+**altafshaikh/altafshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
