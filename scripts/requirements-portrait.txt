@@ -1,0 +1,6 @@
+# portrait pipeline — run locally only when the photo changes
+-r requirements.txt
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]

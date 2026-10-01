@@ -1,0 +1,3 @@
+# daily heatmap refresh (the only thing the workflow installs)
+requests==2.32.3
+beautifulsoup4==4.12.3
