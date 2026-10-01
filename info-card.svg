@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="455" viewBox="0 0 632 455">
+<style>
+.l{opacity:0;transform:translateX(-12px);animation:in 0.45s ease-out forwards}
+@keyframes in{to{opacity:1;transform:translateX(0)}}
+</style>
+<rect width="100%" height="100%" rx="10" fill="#0d1117"/>
+<path d="M0 10a10 10 0 0 1 10-10h612a10 10 0 0 1 10 10v22H0z" fill="#161b22"/>
+<circle cx="18" cy="16" r="5.5" fill="#ff5f56"/>
+<circle cx="36" cy="16" r="5.5" fill="#ffbd2e"/>
+<circle cx="54" cy="16" r="5.5" fill="#27c93f"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">
+<text x="316.0" y="21" text-anchor="middle" font-size="12" fill="#8b949e">altaf@github: ~ — neofetch</text>
+<g class="l" style="animation-delay:0.40s"><text x="28" y="56"><tspan fill="#39d353" font-weight="bold">altaf</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39d353" font-weight="bold">github</tspan></text></g>
+<g class="l" style="animation-delay:0.52s"><text x="28" y="72" fill="#8b949e">----------------------------</text></g>
+<g class="l" style="animation-delay:0.64s"><text x="28" y="105"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan x="156">Backend Engineer @ Contentstack</tspan></text></g>
+<g class="l" style="animation-delay:0.76s"><text x="28" y="126"><tspan fill="#39d353" font-weight="bold">Team</tspan><tspan x="156">Content Delivery API (CDA)</tspan></text></g>
+<g class="l" style="animation-delay:0.88s"><text x="28" y="147"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan x="156">Python · TypeScript · Node.js</tspan></text></g>
+<g class="l" style="animation-delay:1.00s"><text x="28" y="168"><tspan x="156">NestJS · Next.js · Django</tspan></text></g>
+<g class="l" style="animation-delay:1.24s"><text x="28" y="210" fill="#39d353" font-weight="bold">Highlights</text></g>
+<g class="l" style="animation-delay:1.36s"><text x="40" y="231"><tspan fill="#58a6ff">›</tspan><tspan dx="9">content-factory / TeachMeBro</tspan></text></g>
+<g class="l" style="animation-delay:1.48s"><text x="40" y="252"><tspan fill="#58a6ff">›</tspan><tspan dx="9">AI agents</tspan></text></g>
+<g class="l" style="animation-delay:1.72s"><text x="28" y="294"><tspan fill="#39d353" font-weight="bold">Into</tspan><tspan x="156">Cyber security · Open source · Teaching</tspan></text></g>
+<g class="l" style="animation-delay:1.96s"><text x="28" y="336"><tspan fill="#39d353" font-weight="bold">Twitter</tspan><tspan x="156">@ialtafshaikh</tspan></text></g>
+<g class="l" style="animation-delay:2.08s"><text x="28" y="357"><tspan fill="#39d353" font-weight="bold">LinkedIn</tspan><tspan x="156">in/ialtafshaikh</tspan></text></g>
+<g class="l" style="animation-delay:2.20s"><text x="28" y="378"><tspan fill="#39d353" font-weight="bold">Instagram</tspan><tspan x="156">@ialtafshaikh</tspan></text></g>
+<g class="l" style="animation-delay:2.32s"><rect x="28" y="405" width="26" height="14" rx="2" fill="#0e4429"/><rect x="58" y="405" width="26" height="14" rx="2" fill="#006d32"/><rect x="88" y="405" width="26" height="14" rx="2" fill="#26a641"/><rect x="118" y="405" width="26" height="14" rx="2" fill="#39d353"/><rect x="148" y="405" width="26" height="14" rx="2" fill="#69f0a0"/><rect x="178" y="405" width="26" height="14" rx="2" fill="#58a6ff"/><rect x="208" y="405" width="26" height="14" rx="2" fill="#bc8cff"/><rect x="238" y="405" width="26" height="14" rx="2" fill="#f778ba"/></g>
+</g>
+</svg>
